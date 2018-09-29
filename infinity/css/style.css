@@ -223,7 +223,7 @@ a:active {
   background-attachment: fixed; }
 
 .bg-gray {
-  background: orange; }
+  background: black; }
 
 .hero-area {
   height: 100vh;
@@ -305,6 +305,7 @@ a:active {
     service start
 --*/
 .service {
+  background-color: orange;
   text-align: center; }
   .service .block {
     margin-bottom: 50px; }
