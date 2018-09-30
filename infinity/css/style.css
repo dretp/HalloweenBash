@@ -78,7 +78,7 @@ a:active {
   color: #777777;
   padding-bottom: 70px; }
   .heading h2 {
-    color: #3c3c3c;
+    color: #ffffff;
     padding-bottom: 15px;
     text-transform: capitalize;
     font-weight: 600;
@@ -281,7 +281,7 @@ a:active {
     padding-top: 5px;
     display: inline-block; }
   .navigation .navbar-toggler {
-    background: #fff;
+    background: rgb(252, 115, 4);
     outline: none;
     border-radius: 0;
     float: right; }
@@ -289,10 +289,10 @@ a:active {
       font-size: 22px; }
 
 .navigation.animated {
-  background-color: #fff;
+  background-color: rgb(252, 115, 4);
   box-shadow: 0 2px 7px 0px rgba(142, 142, 142, 0.15); }
   .navigation.animated .menu a {
-    color: #666; }
+    color: rgb(255, 255, 255); }
 
 .menu li a {
   color: #fff;
@@ -305,7 +305,7 @@ a:active {
     service start
 --*/
 .service {
-  background-color: orange;
+  background-color: rgb(53, 45, 38);
   text-align: center; }
   .service .block {
     margin-bottom: 50px; }
@@ -313,9 +313,9 @@ a:active {
       font-size: 30px;
       display: inline-block;
       margin-bottom: 15px;
-      color: #1bafb4; }
+      color: #d8d8d8; }
     .service .block h3 {
-      color: #333333;
+      color: #080808;
       font-weight: 600;
       font-size: 18px;
       margin-bottom: 15px;
@@ -344,11 +344,11 @@ a:active {
 --*/
 .call-to-action {
   padding: 90px 0px;
-  background-image: url(../images/call-to-action.jpg);
+  background-image: url(../images/yeerrrr.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #fff;
+  color: rgb(230, 230, 230);
   position: relative; }
   .call-to-action:before {
     content: "";
@@ -364,7 +364,7 @@ a:active {
     font-weight: 600; }
   .call-to-action .block p {
     padding-right: 30px;
-    color: #fff; }
+    color: rgb(231, 230, 230); }
   .call-to-action .block .input-group {
     margin-top: 30px; }
     .call-to-action .block .input-group input {
