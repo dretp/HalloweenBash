@@ -94,7 +94,7 @@ a:active {
   border-radius: 0; }
 
 .btn-home {
-  background-color: #1bafb4;
+  background-color: rgb(252, 115, 4);;
   border-radius: 0px;
   color: #fff;
   font-size: 18px;
@@ -136,7 +136,7 @@ a:active {
   border-top: 5px solid #ecf0f1;
   border-bottom: 5px solid #ecf0f1;
   border-right: 5px solid #ecf0f1;
-  background: #1bafb4;
+  background: #d38614;
   width: 50px;
   height: 60px;
   -webkit-transform-origin: 0% 50%;
@@ -167,13 +167,13 @@ a:active {
     -webkit-transform: perspective(600px) rotateY(0deg);
     transform: perspective(600px) rotateY(0deg); }
   20% {
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   29.9% {
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   30% {
     -webkit-transform: perspective(200px) rotateY(-90deg);
     transform: perspective(200px) rotateY(-90deg);
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   54.999% {
     opacity: 1; }
   55% {
@@ -181,24 +181,24 @@ a:active {
   60% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   100% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4; } }
+    background: rgb(252, 115, 4); } }
 
 @keyframes flip {
   0% {
     -webkit-transform: perspective(600px) rotateY(0deg);
     transform: perspective(600px) rotateY(0deg); }
   20% {
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   29.9% {
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   30% {
     -webkit-transform: perspective(200px) rotateY(-90deg);
     transform: perspective(200px) rotateY(-90deg);
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   54.999% {
     opacity: 1; }
   55% {
@@ -206,12 +206,17 @@ a:active {
   60% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4; }
+    background: rgb(252, 115, 4); }
   100% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4; } }
+    background: rgb(252, 115, 4); } }
 
+  map {
+    width: auto ;
+    max-width: auto ;
+    height: auto ;
+  }
 /*--
     .hero-area start
 --*/
@@ -305,7 +310,7 @@ a:active {
     service start
 --*/
 .service {
-  background-color: rgb(53, 45, 38);
+  background-color: rgb(78, 41, 95);
   text-align: center; }
   .service .block {
     margin-bottom: 50px; }
@@ -315,7 +320,7 @@ a:active {
       margin-bottom: 15px;
       color: #d8d8d8; }
     .service .block h3 {
-      color: #080808;
+      color: #585858;
       font-weight: 600;
       font-size: 18px;
       margin-bottom: 15px;
@@ -377,7 +382,7 @@ a:active {
       border-radius: 0;
       border: none;
       box-shadow: none;
-      background: #1bafb4;
+      background: rgb(252, 115, 4);
       padding: 0px 35px;
       color: #fff;
       font-weight: bold; }
@@ -394,8 +399,8 @@ a:active {
 
 .btn-send {
   line-height: 48px;
-  border: 2px solid #1bafb4;
-  background: #1bafb4;
+  border: 2px solid rgb(252, 115, 4);
+  background: rgb(252, 115, 4);
   color: #fff;
   width: 100%;
   font-size: 14px;
