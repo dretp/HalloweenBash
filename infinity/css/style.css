@@ -216,9 +216,9 @@ a:active {
     .hero-area start
 --*/
 .bg-1 {
-  /*background-image: url("../images/header-bg.jpg");
-  */
-  background-color: gray;
+  background-image: url("../images/header-bg.jpg");
+  
+  /*background-color: gray;*/
   background-size: cover;
   background-attachment: fixed; }
 
