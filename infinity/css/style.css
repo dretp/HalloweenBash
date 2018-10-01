@@ -213,9 +213,7 @@ a:active {
     background: rgb(252, 115, 4); } }
 
   map {
-    width: auto ;
-    max-width: auto ;
-    height: auto ;
+  background-image: url("../images/mapp.JPG");
   }
 /*--
     .hero-area start
