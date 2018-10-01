@@ -212,9 +212,6 @@ a:active {
     transform: perspective(200px) rotateY(-180deg);
     background: rgb(252, 115, 4); } }
 
-  map {
-  background-image: url("../images/mapp.JPG");
-  }
 /*--
     .hero-area start
 --*/
