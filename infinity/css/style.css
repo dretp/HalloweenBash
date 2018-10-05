@@ -308,7 +308,7 @@ a:active {
     service start
 --*/
 .service {
-  background-color: rgb(77, 77, 77);
+  background-image: url("/infinity/images/purple.jpg");
   text-align: center; }
   .service .block {
     margin-bottom: 50px; }
